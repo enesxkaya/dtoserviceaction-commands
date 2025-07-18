@@ -14,10 +14,6 @@ Bu projede oluşturduğum özel artisan komutu sayesinde tek satırla DTO sını
 
 ---
 
-## ⚙️ Kurulum
-
-**Öncelikle projeyi klonla ve bağımlılıkları yükle:
----
 # Örnek DTO Sınıfı
 
 ```
