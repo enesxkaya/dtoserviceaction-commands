@@ -5,7 +5,7 @@ Bu proje, Laravel 12 içerisinde **Data Transfer Object (DTO)** yapısını kola
 
 ---
 
-## 🚀 Nedir?
+## 🚀 DTO Nedir?
 
 **DTO (Data Transfer Object)**, veriyi taşımak için kullanılan sade veri sınıflarıdır.  
 Controller, Service, Repository katmanlarında karmaşık array’ler yerine tip güvenli ve düzenli sınıflar kullanmanı sağlar.
@@ -14,7 +14,7 @@ Bu projede oluşturduğum özel artisan komutu sayesinde tek satırla DTO sını
 
 ---
 
-## ⚙️ Kurulum
+## ⚙️ Kurulum ##
 Öncelikle projeyi klonla ve bağımlılıkları yükle:
 ---
 # Örnek DTO Sınıfı
