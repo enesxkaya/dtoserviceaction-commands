@@ -19,11 +19,9 @@ Bu projede oluşturduğum özel artisan komutu sayesinde tek satırla DTO sını
 ---
 # Örnek DTO Sınıfı
 
-`
+```
 readonly class DillerDto
-{
-    //
-
+{    
     public function __construct(public string $name, public string $code, public ?string $flag = null, public bool $isDefault = false, public bool $isActive = true) {}
 
     public function toArray(): array
@@ -47,4 +45,4 @@ readonly class DillerDto
             isActive: $data['is_active'] ?? true
         );
     }
-`
+````	
